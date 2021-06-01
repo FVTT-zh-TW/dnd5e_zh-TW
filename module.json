@@ -1,0 +1,30 @@
+{
+  "name": "dnd5e_zh-TW",
+  "title": "Translation: 正體中文 [DnD5E]",
+  "description": "為 FVTT 中的 DnD5e 系统增加正體中文。",
+  "author": "Sass",
+  "authors": [],
+  "url": "https://github.com/FVTT-zh-TW/dnd5e_zh-TW",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "zh-TW",
+      "name": "正體中文",
+      "path": "./lang/zh-TW.json"
+    }
+  ],
+  "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/FVTT-zh-TW/dnd5e_zh-TW/1.0.0/module.json",
+  "download": "https://github.com/FVTT-zh-TW/dnd5e_zh-TW/archive/refs/tags/1.0.0.zip",
+  "protected": false,
+  "coreTranslation": false
+}
